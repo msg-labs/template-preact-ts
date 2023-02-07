@@ -1,0 +1,10 @@
+{
+    "name": "template-preact-ts",
+    "short_name": "template-preact-ts",
+    "start_url": "/",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background_color": "#fff",
+    "theme_color": "#673ab8",
+    "icons": []
+}
